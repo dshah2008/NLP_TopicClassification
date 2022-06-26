@@ -12,6 +12,7 @@ Learn how to solve an NLP Classification problem with a large number of classes,
 All the code displayed in this repository has been developed only by me. However, the original team project involved additional implementation:\
 \- Jacqueline Haniff: Data Exploration\
 \- Kevin Wang, Ajay Chaudhary: Model Experimentation\
+\
 \The additional exploration and modeling code is not part of this repository or report, but contributed to the overall analysis.
 <br/>
 
